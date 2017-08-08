@@ -1,0 +1,6 @@
+G:\C#\SocketProgramming\ServerSocket\bin\Debug\ServerSocket.exe.config
+G:\C#\SocketProgramming\ServerSocket\bin\Debug\ServerSocket.exe
+G:\C#\SocketProgramming\ServerSocket\bin\Debug\ServerSocket.pdb
+G:\C#\SocketProgramming\ServerSocket\obj\Debug\ServerSocket.csprojResolveAssemblyReference.cache
+G:\C#\SocketProgramming\ServerSocket\obj\Debug\ServerSocket.exe
+G:\C#\SocketProgramming\ServerSocket\obj\Debug\ServerSocket.pdb

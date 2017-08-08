@@ -1,0 +1,9 @@
+G:\C#\SocketProgramming\ClientSocket\bin\Debug\ClientSocket.exe.config
+G:\C#\SocketProgramming\ClientSocket\bin\Debug\ClientSocket.exe
+G:\C#\SocketProgramming\ClientSocket\bin\Debug\ClientSocket.pdb
+G:\C#\SocketProgramming\ClientSocket\obj\Debug\ClientSocket.csprojResolveAssemblyReference.cache
+G:\C#\SocketProgramming\ClientSocket\obj\Debug\ClientSocket.MainForm.resources
+G:\C#\SocketProgramming\ClientSocket\obj\Debug\ClientSocket.Properties.Resources.resources
+G:\C#\SocketProgramming\ClientSocket\obj\Debug\ClientSocket.csproj.GenerateResource.Cache
+G:\C#\SocketProgramming\ClientSocket\obj\Debug\ClientSocket.exe
+G:\C#\SocketProgramming\ClientSocket\obj\Debug\ClientSocket.pdb
